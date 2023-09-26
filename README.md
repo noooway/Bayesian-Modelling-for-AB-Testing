@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://nbviewer.org/github/noooway/Bayesian-Modelling-for-AB-Testing/blob/main/1-%D0%9E%D0%B1%D1%89%D0%B8%D0%B5%20%D0%B8%D0%B4%D0%B5%D0%B8.ipynb">
-        <img src="./figs/cover.png" width="600"/>
+        <img src="./figs/cover.png" width="700"/>
     </a>
 </p>
 
